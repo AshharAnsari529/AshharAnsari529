@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshharAnsari529
+- 👋 Hi, I’m @AshharAnsari
 - 👀 I’m interested in Python/computer vision
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Deep Learning
